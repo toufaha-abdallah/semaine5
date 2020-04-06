@@ -1,0 +1,8 @@
+.customLine{
+    margin-bottom: 1rem;
+    background-color:lawngreen;
+    min-height: 5rem;
+}
+.colonne{
+    background-color: red;
+}
