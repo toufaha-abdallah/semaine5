@@ -1,0 +1,118 @@
+body{
+  font-family: franklin gothic medium !important;
+}
+
+@media screen and (max-width: 503px) {
+
+  .wi  {
+    font-size:2.8vw ;
+  }
+  .boutton {
+    font-size:2.8vw ;
+    padding-left: 7vw;
+    padding-right: 7vw;
+    }
+
+  .remplir {
+    font-size:2.8vw ;
+  }
+  .box{
+    font-size: 2.8vw;
+  }
+
+}
+
+@media screen and (min-width: 504px) and (max-width: 700px) {
+  .wi {
+    font-size:2vw ;
+  }
+.boutton {
+    font-size:2vw ;
+    padding-left: 17vw;
+    padding-right: 17vw;
+  }
+  .remplir{
+    font-size:2vw ;
+  }
+  .box{
+    font-size: 2vw;
+  }
+}
+
+@media screen and (min-width: 701px) {
+  .wi {
+   font-size: 1.4vw ;
+  }
+.boutton {
+   font-size: 1vw ;
+   padding-left: 21vw;
+  padding-right: 21vw;
+   
+  }
+  .remplir {
+    font-size: 1.7vw ;
+   }
+   .box{
+     font-size: 1vw;
+   }
+
+
+}
+
+
+.social{
+  background-color: ;
+  border-radius: 50px;
+
+
+
+
+}
+
+
+body{
+  background-color: #FFE4E4;
+}
+
+
+form{
+margin: 2vw;
+}
+h2{
+
+font-size: 3vw;
+font-weight: bolder;
+}
+
+#footer{
+   background-color: rgb(95, 77, 88);
+   width: 100%;
+   height: auto;
+
+}
+  
+.logo{
+
+  background-color: black;
+  border-radius: 40px;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  width: 3vw;
+  height:3vw;
+}
+.boutton{
+  justify-content: center;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border-radius: 7px;
+  font-size: large;
+}
+
+#im{
+
+  margin: 0px;
+  padding: 0px;
+  width: 60px;
+
+}

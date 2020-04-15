@@ -1,0 +1,70 @@
+body{
+  font-family: franklin gothic medium !important;
+}
+
+#manga{
+
+    border:4px solid black;
+
+  }
+  #im{
+
+    margin: 0px;
+    padding: 0px;
+    width: 60px;
+  
+  }
+
+
+ 
+
+    #img1{
+      margin: 2vw;
+      border: 2px solid black;
+      border-radius: 25px; 
+    }
+     #text{
+       font-size: 1.5vw;
+       margin: 2vw;
+     } 
+     h4{
+       font-size: 2vw ;
+       margin: 2vw;
+     }
+     h2{
+      font-size: 2vw ;
+         
+     }
+      #titre{
+        border: 2px solid black;
+        padding: 3px;
+        background-color:rgb(128, 26, 26);
+      }
+      #titre1{
+        margin: 2vw;
+        border: 2px solid black;
+        padding: 3px;
+        background-color:rgb(128, 26, 26);
+      }
+      #bot{
+        border: 2px solid black;
+        margin: 1.5vw;
+        padding: 10%;
+        border-radius: 25px;
+        background-color:rgb(128, 26, 26);
+        text-align: center;}
+
+        #liste{
+
+        border: 2px solid black;
+        margin: 2vw;
+         border-radius: 25px;
+        background-color:rgb(128, 26, 26);
+        text-align: center;}
+          
+        
+
+        footer{
+          background-color: lightblue;
+        }
+

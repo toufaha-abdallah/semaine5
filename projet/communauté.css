@@ -1,0 +1,89 @@
+#image{
+    width: 10%;
+border-radius: 50px;
+}
+#tete
+{
+    background-color: #D1D1D1;
+}
+#bas{
+    background-color: #E5D5D5;
+}
+
+.titre{
+    
+    text-align: center;
+    color: white;
+    background-color: rgb(128, 26, 26);
+    border: 2px solid black;
+    border-radius: 24px;
+    margin-bottom: 2% ;
+    margin-left: 35%; 
+    margin-right: 35%;
+    font-size: 2.5vw;
+    border-radius: 28vw; 
+    background-color: ;
+}
+
+h2{
+    text-align: center;
+    font-size: 2vw !important;
+    
+}
+
+#search{
+    border-radius: 23px;
+}
+#fond{
+    padding: 0px;
+}
+#im{
+
+    margin: 0px;
+    padding: 0px;
+    width: 60px;
+  
+  }
+
+#wesh{
+    background-color: #E5D5D5;  
+    padding: 2.4vw;
+    padding-top: 6vw;
+}
+
+#bien{
+    background-color: rgb(233, 140, 143);
+    border: 2px solid black;
+    border-radius: 22px;
+}
+
+.po{
+    width: 50%;
+    border-radius: 25px;
+}
+
+#footer{
+    background-color: rgb(95, 77, 88);
+    width: 100%;
+    height: auto;
+
+}
+
+
+.social{
+    background-color: ;
+    border-radius: 50px;
+  
+
+
+
+}
+.logo{
+
+    background-color: black;
+    border-radius: 40px;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    width: 3vw;
+    height:3vw;
+}
